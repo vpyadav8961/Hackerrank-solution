@@ -1,4 +1,4 @@
-//Link for problem:: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
+//Link for this problem:: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 
 /*
   Insert Node at the beginning of a linked list 

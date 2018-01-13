@@ -1,4 +1,4 @@
-// Link for problem:: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
+// Link for this problem:: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 /*
   Insert Node at the end of a linked list 
   head pointer input could be NULL as well for empty list

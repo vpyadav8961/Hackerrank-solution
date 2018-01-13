@@ -1,3 +1,4 @@
+//Link of this problem:: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
 /*
   Insert Node at the end of a linked list 
   head pointer input could be NULL as well for empty list
@@ -7,7 +8,7 @@
      Node next;
   }
 */
-  //Link of problem:: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
+  
 Node Insert(Node head,int data) {
     if (head == null){
         head = new Node();
