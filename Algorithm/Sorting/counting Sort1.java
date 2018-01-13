@@ -11,9 +11,7 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         int SIZE = 100;
         int[] ar = new int[SIZE];
-        for(int i = 0; i < SIZE; ar[i++] = 0){
-            
-        }
+       
         for(int N = in.nextInt(); N-- > 0; ar[in.nextInt()]++){
             
         }
